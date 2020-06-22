@@ -1,8 +1,12 @@
 # Awesome-metrics-learning
+A collection of all metric learning paper about loss functions from 2016-today in CVPR, ECCV, ICCV, NIPS, ICML, ICLR and BMVC.
 
 ### Older
 - [Neighbourhood Components Analysis](https://www.cs.toronto.edu/~hinton/absps/nca.pdf) (NIPS '05)
+- [Distance Metric Learning for Large Margin
+Nearest Neighbor Classification](https://papers.nips.cc/paper/2795-distance-metric-learning-for-large-margin-nearest-neighbor-classification.pdf) (NIPS '06)
 - [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf) (CVPR '06)
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832) (CVPR '15)
 
 ### 2016
 - [Large-Margin Softmax Loss for Convolutional Neural Networks](https://arxiv.org/abs/1612.02295) (ICML '16)
@@ -10,6 +14,7 @@
 - [Deep Metric Learning via Lifted Structured Feature Embedding](https://arxiv.org/abs/1511.06452) (CVPR '16)
 
 ### 2017 
+- [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063)(CVPR '17)
 - [Deep Metric Learning with Angular Loss](https://arxiv.org/abs/1708.01682) (ICCV '17)
 - [No Fuss Distance Metric Learning using Proxies](https://arxiv.org/abs/1703.07464) (ICCV '17)
 - [Sampling Matters in Deep Embedding Learning](https://arxiv.org/abs/1706.07567) （ICCV '17）
@@ -17,12 +22,15 @@
 ### 2018
 - [CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/abs/1801.09414) (CVPR '18)
 - [Classification is a Strong Baseline for Deep Metric Learning](https://arxiv.org/abs/1811.12649) (BMVC '18)
+- [Additive Margin Softmax for Face Verification](https://pdfs.semanticscholar.org/93af/36da08bf99e68c9b0d36e141ed8154455ac2.pdf) (ICLRW '18)
 
 ### 2019
 - [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698) (CVPR '19)
 - [Deep Metric Learning to Rank](http://cs-people.bu.edu/hekun/papers/CVPR2019FastAP.pdf) (CVPR '19)
 - [Multi-Similarity Loss with General Pair Weighting for Deep Metric Learning](https://arxiv.org/abs/1904.06627) (CVPR '19)
 - [Signal-to-Noise Ratio: A Robust Distance Metric for Deep Metric Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yuan_Signal-To-Noise_Ratio_A_Robust_Distance_Metric_for_Deep_Metric_Learning_CVPR_2019_paper.pdf) (CVPR '19)
+- [Divide and Conquer the Embedding Space for Metric Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanakoyeu_Divide_and_Conquer_the_Embedding_Space_for_Metric_Learning_CVPR_2019_paper.pdf) (CVPR '19)
+- [Hardness-Aware Deep Metric Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Hardness-Aware_Deep_Metric_Learning_CVPR_2019_paper.pdf) (CVPR '19)
 - [Deep Metric Learning with Tuplet Margin Loss](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Deep_Metric_Learning_With_Tuplet_Margin_Loss_ICCV_2019_paper.pdf) (ICCV '19)
 - [SoftTriple Loss: Deep Metric Learning Without Triplet Sampling](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qian_SoftTriple_Loss_Deep_Metric_Learning_Without_Triplet_Sampling_ICCV_2019_paper.pdf) (ICCV '19)
 - [Classification is a Strong Baseline for Deep Metric Learning](https://arxiv.org/abs/1811.12649) (BMVC '19)
