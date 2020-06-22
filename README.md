@@ -12,7 +12,7 @@
 ### 2017 
 - [Deep Metric Learning with Angular Loss](https://arxiv.org/abs/1708.01682) (ICCV '17)
 - [No Fuss Distance Metric Learning using Proxies](https://arxiv.org/abs/1703.07464) (ICCV '17)
-- [Sampling Matters in Deep Embedding Learning](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Sampling_Matters_in_ICCV_2017_paper.pdf） （ICCV '17）
+- [Sampling Matters in Deep Embedding Learning](https://arxiv.org/abs/1706.07567) （ICCV '17）
 
 ### 2018
 - [CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/abs/1801.09414) (CVPR '18)
